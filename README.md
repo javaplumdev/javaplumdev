@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+- 👷 I'm a Jr. Frontend Developer 
 - 🌱 I’m currently learning on new technologies
+- 🗺️ Can speak English and Tagalog
 
+<br/>
 
 ## Technologies used 🧰
 
