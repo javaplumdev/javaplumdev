@@ -2,6 +2,15 @@
 
 - 🌱 I’m currently learning on new technologies
 
+
+## Technologies used 🧰
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,azure,bitbucket,bootstrap,css)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=jest,discord,figma,firebase,git,materialui)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=netlify,nextjs,react,sass,tailwind,ts)](https://skillicons.dev)
+
 <!--
 **javaplumdev/javaplumdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
