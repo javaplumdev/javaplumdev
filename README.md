@@ -1,30 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Charli 👋
 
-- 👷 I'm a Jr. Frontend Developer 
-- 🌱 I’m currently learning on new technologies
-- 🗺️ Can speak English and Tagalog
+> Jr. Frontend Developer · Manila, Philippines
 
-<br/>
+![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-blue?style=flat-square) ![Exploring & learning](https://img.shields.io/badge/Exploring%20%26%20learning-teal?style=flat-square&color=1D9E75)
 
-## Technologies used 🧰
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,azure,bitbucket,bootstrap,css)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=jest,discord,figma,firebase,git,materialui)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=netlify,nextjs,react,sass,tailwind,ts)](https://skillicons.dev)
+## About me
 
-<!--
-**javaplumdev/javaplumdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👷 Jr. Frontend Developer building clean, user-friendly interfaces
+- 🔭 Currently exploring new technologies and AI tools
+- 🤖 Working with AI — Claude and various language models
+- 🗺️ Speaks English and Tagalog
+- 🌐 Portfolio: [charlidev.vercel.app](https://charlidev.vercel.app/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack 🧰
+
+**Languages & frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs)](https://skillicons.dev)
+
+**Styling & UI**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,figma)](https://skillicons.dev)
+
+**Tools & platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,azure,netlify,jest,bitbucket)](https://skillicons.dev)
+
+**AI & emerging tech**
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Apps](https://img.shields.io/badge/AI--powered%20apps-1D9E75?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20engineering-378ADD?style=flat-square)
+
+---
+
+## Get in touch 📬
+
+📧 [charlitomecarezjr@gmail.com](mailto:charlitomecarezjr@gmail.com) · 🌐 [charlidev.vercel.app](https://charlidev.vercel.app/)
