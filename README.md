@@ -12,7 +12,7 @@
 - 🔭 Currently exploring new technologies and AI tools
 - 🤖 Working with AI — Claude and various language models
 - 🗺️ Speaks English and Tagalog
-- 🌐 Portfolio: [charlidev.vercel.app](https://charlidev.vercel.app/)
+- 🌐 Portfolio: [charlidev.com](https://charlidev.com/)
 
 ---
 
@@ -41,4 +41,4 @@
 
 ## Get in touch 📬
 
-📧 [charlitomecarezjr@gmail.com](mailto:charlitomecarezjr@gmail.com) · 🌐 [charlidev.vercel.app](https://charlidev.vercel.app/)
+📧 [charlitomecarezjr@gmail.com](mailto:charlitomecarezjr@gmail.com) · 🌐 [charlidev.com](https://charlidev.com/)
